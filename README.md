@@ -1,5 +1,5 @@
 # Sentiment-Analysis
-This is a django based web app which classifies any text or a comment as positive, negative or neutral.
+This is a django based web app which classifies any text or a comment as positive, negative or neutral. I have used a large balanced dataset of tweets.
 
 ## Flow Chart of Sentiment Analysis
 
