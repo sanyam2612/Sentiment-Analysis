@@ -1,10 +1,13 @@
 # Sentiment-Analysis
 This is a django based web app which classifies any text or a comment as positive, negative or neutral.
 
-Flow Chart depicting Sentiment Analysis
+## Flow Chart of Sentiment Analysis
+
+![sentiment](https://user-images.githubusercontent.com/65210477/134039933-ba534e31-e84c-40ad-8c46-c05b6f7b6727.jpg)
 
 
-Below are some of my screenshots of the project
+
+## Screenshots of the project
 
 ![Screenshot (34)](https://user-images.githubusercontent.com/65210477/134038746-ae65ee32-997b-4bd2-ba86-03d294e37ca7.png)
 
