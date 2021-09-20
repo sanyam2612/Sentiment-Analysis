@@ -4,8 +4,6 @@ from django.shortcuts import render
 # Create your views here.
 
 from .apps import SentimentappConfig
-from django.http import JsonResponse, HttpResponse
-from rest_framework.views import APIView
 
 
 def home(request):
